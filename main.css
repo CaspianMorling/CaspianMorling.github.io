@@ -1,0 +1,14 @@
+body {
+    background-color: #c9cacc;
+}
+#header {
+    color: #4f5051;
+    font-family: courier;
+    letter-spacing: 0.125px;
+    margin-bottom: 15px;
+    margin-top: 13px;
+}
+#main_border {
+    border: 1.5px solid black;
+    height: 670px;
+}
