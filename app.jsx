@@ -12,8 +12,7 @@
             <h1>Hello React!</h1>
          );
     }
-}; */
-
+};
 class App extends React.Component {
  render() {
     return (
@@ -27,4 +26,4 @@ class App extends React.Component {
 ReactDOM.render(
 	<App />,
 	document.getElementById('app')
-);
+); */
