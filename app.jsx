@@ -1,9 +1,8 @@
 
 class App extends React.Component {
-
-  render() {
+ render() {
     return (
-        <div>
+        <div id="app">
            <p>hello</p>
         </div>
     );
