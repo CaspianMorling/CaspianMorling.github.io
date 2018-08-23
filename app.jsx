@@ -23,7 +23,3 @@ class App extends React.Component {
   }
 }
 
-ReactDOM.render(
-	<h1></h1>,
-	document.getElementById('app')
-);
