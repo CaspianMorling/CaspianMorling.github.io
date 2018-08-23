@@ -1,4 +1,4 @@
-class Block extends React.Component {
+/*class Block extends React.Component {
     constructor(props){
         super(props);
         this.state = {
@@ -12,7 +12,7 @@ class Block extends React.Component {
             <h1>Hello React!</h1>
          );
     }
-};
+}; */
 
 class App extends React.Component {
  render() {
