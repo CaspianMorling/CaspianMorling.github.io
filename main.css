@@ -15,3 +15,7 @@ body {
 #grid-container {
     display: grid
 }
+#app {
+    width: 200px;
+    height: 200px;
+}
